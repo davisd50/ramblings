@@ -1,0 +1,2 @@
+# ramblings
+general code ramblings
