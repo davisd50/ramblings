@@ -13,7 +13,7 @@ class messenger_offline(object):
     
     Usage:
         Get our messenger and send some messages
-        >>> from gcj.distributed.message import message_offline as messenger
+        >>> from gcj.distributed.messenger import messenger_offline as messenger
         >>> myMessenger0 = messenger()
         >>> myMessenger0.MyNodeId()
         0

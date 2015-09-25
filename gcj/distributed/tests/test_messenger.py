@@ -8,7 +8,7 @@ import gcj.distributed
 
 def test_suite():
     return unittest.TestSuite((
-        DocTestSuite('gcj.distributed.message'),))
+        DocTestSuite('gcj.distributed.messenger'),))
 
 if __name__ == '__main__':
     unittest.main(defaultTest='test_suite')
